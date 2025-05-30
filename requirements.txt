@@ -5,5 +5,3 @@ tensorboard
 matplotlib
 streamlit
 tensorflow==2.18
-python==3.12
-
